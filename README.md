@@ -4,7 +4,7 @@
 ### Passo a passo
 Clonar repositório das config docker
 ```sh
-git clone https://github.com/andersonseidler/setup-docker-laravel.git
+git clone https://github.com/andersonseidler/setup-docker-laravel.git setup-docker-laravel
 ```
 
 Clonar os arquivos do Laravel
