@@ -9,7 +9,7 @@ git clone https://github.com/andersonseidler/setup-docker-laravel.git
 
 Clonar os arquivos do Laravel
 ```sh
-git clone https://github.com/laravel/laravel.git laradoc
+git clone https://github.com/andersonseidler/laravel.git laradoc
 ```
 
 
